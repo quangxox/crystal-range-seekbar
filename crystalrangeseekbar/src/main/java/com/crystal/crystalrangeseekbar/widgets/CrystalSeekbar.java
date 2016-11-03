@@ -666,6 +666,14 @@ public class CrystalSeekbar extends View {
         }
     }
 
+    public void setProgressMinValue(int value) {
+        setNormalizedMinValue(value);
+    }
+
+    public void setProgressMaxValue(int value) {
+        setNormalizedMaxValue(value);
+    }
+
     private void setNormalizedMinValue(double value) {
         normalizedMinValue = Math.max(0d, Math.min(100d, Math.min(value, normalizedMaxValue)));
         invalidate();

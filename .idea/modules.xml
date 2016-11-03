@@ -4,9 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CrystalRangeSeekbar.iml" filepath="$PROJECT_DIR$/CrystalRangeSeekbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/crystal-range-seekbar.iml" filepath="$PROJECT_DIR$/crystal-range-seekbar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/crystalrangeseekbar/crystalrangeseekbar.iml" filepath="$PROJECT_DIR$/crystalrangeseekbar/crystalrangeseekbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/crystalrangeseekbar/crystalrangeseekbar.iml" filepath="$PROJECT_DIR$/crystalrangeseekbar/crystalrangeseekbar.iml" />
     </modules>
   </component>
